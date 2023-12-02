@@ -9,4 +9,4 @@ My super title
 :authors: Alexis Metaireau, Conan Doyle
 :summary: Short version for index and feeds
 
-My post from Pushkar
+My post from Pushkar with mathematics :math:`(a+b)^2`
