@@ -4,7 +4,7 @@ My super title
 :date: 2023-10-03 10:20
 :tags: thats, awesome
 :category: telugu, mathematics
-:slug: Definition of Zero in Pavuluri Ganitam
+:title: Definition of Zero in Pavuluri Ganitam
 :author: Pushkar
 :summary: Short version for index and feeds
 
