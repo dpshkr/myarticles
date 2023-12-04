@@ -27,7 +27,7 @@ SOCIAL = (('You can add links in your config file', '#'),
 
 DEFAULT_PAGINATION = 10
 THEME = "sakura-pelican"
-LICENSE = "CC0"
-THEME_FLAVOUR = "vader"
+LICENSE = "CC-BY"
+#THEME_FLAVOUR = "vader
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
