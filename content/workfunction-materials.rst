@@ -14,8 +14,7 @@ Introduction
 Standard semiconductor physics textbooks define work function somewhat vaguely, 
 which only brings out part of the physical significance of the term.
 
-> Work function is the difference between the Fermi level :math:`E_F` and the vacuum level :math:`E_0`,
-> where the vacuum level is the energy state of electrons outside the material.
+  Work function is the difference between the Fermi level :math:`E_F` and the vacuum level :math:`E_0`, where the vacuum level is the energy state of electrons outside the material.
 
 In this article, we will elaborate on this definition, especially some subtle points on the definition of the **vacuum level**.
 
