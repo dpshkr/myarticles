@@ -18,8 +18,8 @@ which only brings out part of the physical significance of the term.
 
 In this article, we will elaborate on this definition, especially some subtle points on the definition of the **vacuum level**.
 
-# Work Function of a Metal
-----------------------------
+Work Function of a Metal
+-------------------------
 
 Before moving to semiconductors, we will first consider a metal.
 Consider an electron inside a metal at the Fermi level.
