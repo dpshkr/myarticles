@@ -56,7 +56,7 @@ a point *just outside* the metal is also at an electrostatic potential :math:`\p
 We want to repeat our thought experiment for this case.
 The electrostatic potential of the metal has changed by :math:`\phi`.
 This will also change the Fermi level by :math:`-e\phi`. 
-But because the electrostatic potential just outside the metal has also changed by :math:`phi`, the vacuum level also shifts by :math:`-e\phi`,
+But because the electrostatic potential just outside the metal has also changed by :math:`\phi`, the vacuum level also shifts by :math:`-e\phi`,
 effectively keeping the work function constant!
 Had the vacuum level been defined as infinitely far from the metal, this would not have been the case.
 Any change in the electrostatic potential of the metal does not change the electropotential at an infinitely far distance.
