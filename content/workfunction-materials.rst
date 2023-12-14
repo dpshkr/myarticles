@@ -48,7 +48,23 @@ Next, let us introduce some macroscopic charges to the metal.
 Introducing macroscopic charge would change its electrostatic potential.
 Metals, typically being conductors, are equipotential.
 For example, potting a charge :math:`Q` on a spherical conductor of radius :math:`R` 
-would increase its electrostatic potential :math: `\phi` to :math:`\frac{Q}{4\pi\epsilon_0R}`.
+would increase its electrostatic potential :math:`\phi` to :math:`\frac{Q}{4\pi\epsilon_0R}`.
 We know from the basic laws of electromagnetism that electrostatic potential is continuous in nature.
 Therefore, if the metal is at an electrostatic potential :math:`\phi`, 
 a point *just outside* the metal is also at an electrostatic potential :math:`\phi`.
+
+We want to repeat our thought experiment for this case.
+The electrostatic potential of the metal has changed by :math:`\phi`.
+This will also change the Fermi level by :math:`-e\phi`. 
+But because the electrostatic potential just outside the metal has also changed by :math:`phi`, the vacuum level also shifts by :math:`-e\phi`,
+effectively keeping the work function constant!
+Had the vacuum level been defined as infinitely far from the metal, this would not have been the case.
+Any change in the electrostatic potential of the metal does not change the electropotential at an infinitely far distance.
+Hence, the work function would also change by :math:`-e\phi`.
+
+
+From this picture, we can clearly understand the reason for a constant work function 
+and why the vacuum level closely follows the electrostatic potential of the metal.
+Many resources on semiconductor physics present these results as axioms, 
+but they follow the proper definition of physical terms!
+In the next article, we will take up the case of semiconductors.
