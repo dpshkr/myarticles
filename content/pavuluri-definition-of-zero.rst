@@ -8,7 +8,7 @@ My super title
 :author: Pushkar
 :summary: Short version for index and feeds
 
-Pavuluri Ganitam gives a definition of zero as follows
+Pavuluri Ganitam gives a definition of zero as in the following lines - 
 
   | సున్నయు సున్నయు బెంచిన
   | సున్నయ; తత్కృతి ఘనంబు సున్నయ వచ్చు
