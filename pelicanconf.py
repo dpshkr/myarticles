@@ -1,5 +1,5 @@
 AUTHOR = 'Pushkar'
-SITENAME = 'Pushkar'
+SITENAME = 'Semiconductor Times'
 SITEURL = 'https://semiconductortimes.netlify.app'
 
 PATH = 'content'
